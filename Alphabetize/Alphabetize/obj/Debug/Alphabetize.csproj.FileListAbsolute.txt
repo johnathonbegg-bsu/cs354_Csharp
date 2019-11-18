@@ -1,0 +1,6 @@
+c:\users\epic1\documents\visual studio 2017\Projects\Alphabetize\Alphabetize\bin\Debug\Alphabetize.exe.config
+c:\users\epic1\documents\visual studio 2017\Projects\Alphabetize\Alphabetize\bin\Debug\Alphabetize.exe
+c:\users\epic1\documents\visual studio 2017\Projects\Alphabetize\Alphabetize\bin\Debug\Alphabetize.pdb
+c:\users\epic1\documents\visual studio 2017\Projects\Alphabetize\Alphabetize\obj\Debug\Alphabetize.csprojResolveAssemblyReference.cache
+c:\users\epic1\documents\visual studio 2017\Projects\Alphabetize\Alphabetize\obj\Debug\Alphabetize.exe
+c:\users\epic1\documents\visual studio 2017\Projects\Alphabetize\Alphabetize\obj\Debug\Alphabetize.pdb
